@@ -1,0 +1,6 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um termial extendido para utilizar o uso do Git.
+
+Código para importação de imagem:   <img align="center" alt="descricao-img" height="30" widht="40"  src="linkimag ou caminho"/>
+
+😄😄😄
